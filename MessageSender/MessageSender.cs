@@ -7,7 +7,7 @@ using Newtonsoft.Json.Linq;
 
 namespace MessageSender
 {
-    class MessageSender
+    public class MessageSender
     {
         public const string API_KEY = "AIzaSyAGnE4Z8p658N0snwEKDecrEFWwq2vesZ4";
         public const string MESSAGE = "Sending notification!";
